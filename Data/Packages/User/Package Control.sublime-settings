@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DocBlockr",
+		"Package Control",
+		"PHP Companion",
+		"PHP Completions Kit",
+		"PHP Faker Completions",
+		"PHPIntel",
+		"PhpNamespace",
+		"Predawn",
+		"Symfony2 Snippets",
+		"Theme - Spacegray"
+	]
+}
